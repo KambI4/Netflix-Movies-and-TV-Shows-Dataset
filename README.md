@@ -1,4 +1,4 @@
-<img width="823" height="380" alt="image" src="https://github.com/user-attachments/assets/586ab124-5786-4167-8e2f-62a284fdacd3" /># 🎬 **Анализ контента Netflix (Movies & TV Shows)**
+# 🎬 **Анализ контента Netflix (Movies & TV Shows)**
 
 Машинное обучение • Кластеризация • NLP • Визуализация данных
 
@@ -162,6 +162,27 @@ WordCloud показал часто встречающиеся ключевые 
 
 Количество релизов Netflix по годам
 <img width="823" height="380" alt="image" src="https://github.com/user-attachments/assets/ba58eb0d-cc3b-49d1-ab51-b6797ab11477" />
+
+Топ 15 стран по количеству контента
+<img width="763" height="422" alt="image" src="https://github.com/user-attachments/assets/011030f6-027e-424c-92b6-7d41b44e2c9f" />
+
+Топ 15 жанров Netflix
+<img width="822" height="431" alt="image" src="https://github.com/user-attachments/assets/0e3637f8-5543-43cc-b85c-0f182150d330" />
+
+Активность контента по 20 странам
+<img width="1182" height="864" alt="image" src="https://github.com/user-attachments/assets/7d1dc414-dc12-413a-9439-f32e2d049a6d" />
+
+TF-IDF важные слова по жанру: Comedies
+<img width="728" height="367" alt="image" src="https://github.com/user-attachments/assets/a51d63dd-03f7-4ece-a8b5-53ee5092a893" />
+
+TF-IDF важные слова по жанру: Documentary
+<img width="739" height="364" alt="image" src="https://github.com/user-attachments/assets/f3044490-f7fd-4e89-b0c7-98ed354fc1f2" />
+
+WordCloud
+<img width="815" height="514" alt="image" src="https://github.com/user-attachments/assets/1c8705b7-86c5-4f5e-9c80-2f02a4fb7ede" />
+
+Сравнение моделей по F1-Score
+<img width="532" height="339" alt="image" src="https://github.com/user-attachments/assets/84fdf968-400a-49eb-9d11-aa817696e69e" />
 
 
 
